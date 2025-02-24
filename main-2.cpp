@@ -29,5 +29,3 @@ int main()
 }
 
 
-//não aguento mais errar....
-//eu tentei.
